@@ -1,5 +1,6 @@
 /*Assignment from Stanford CS106X: http://web.stanford.edu/class/cs106x/assignments/hw5-priorityqueue.pdf
  *The sorted linked list pq: by Luke (Minsuk) Kim 
+ *The basic idea is to use sorted linked lists to implement a priority queue. 
  *Every time we enqueue a node, we consider the value of priority
  *and the string value as well.
 */
